@@ -1,0 +1,23 @@
+Þekil 3.2 Bebek Doðum Sayýsý Modeli 8
+Þekil 3.3 Toplam Doðurganlýk Hýzý Modeli 9
+Þekil 3.4 Ölüm Hýzý Modeli 9
+Þekil 3.5 Bebek Ölüm Hýzý Modeli 10
+Þekil 3.6 Toplam Nüfus Modeli 10
+Þekil 3.7 Gazlý içecek Tüketimi Modeli 11
+Þekil 3.8 Patetes Tüketimi Modeli 12
+Þekil 3.9 Pirinç Tüketimi Modeli 12
+Þekil 3.10 Nüfus Modeli 13
+Þekil 3.11 YSA Grafikleri 13
+Þekil 3.12 Diyabet Tahmin Verileri 14
+Þekil 3.13HD Hastalarýndaki Diyabet Sýklýðý 14
+Þekil 3.14 Hemodiyaliz Hasta Sayýlarý Modeli 15
+Þekil 3.15 HD Cihaz Sayýsý Modeli 15
+Þekil 3.16 Merkez Sayýsý Modeli 16
+Þekil 3.17 Nüfus Verileri 16
+Þekil 3.18 Model Gösterimi 17
+Þekil 3.19 Regression Learner Tahmin Kodu 17
+Þekil 3.20 YSA Að Yapýsý Belirlenmesi 18
+Þekil 3.21 YSA'nýn Eðitilmesi 19
+Þekil 3.22 YSA Çýktýsý 19
+Þekil 4.1 Nüfus Tahmini Verileri 20
+Þekil 4.3 Diyabet Hasta Tahmini 20
